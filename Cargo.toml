@@ -1,5 +1,5 @@
 [package]
-name = "splite_iptxt_to_several_files"
+name = "split_iptxt_to_several_files"
 version = "0.1.0"
 edition = "2021"
 
